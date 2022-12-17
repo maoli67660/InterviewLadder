@@ -1,7 +1,5 @@
 # InterviewLadder
 
-
-
 ## Introduction
 
 面试梯子用于面试的准备。 对应下面的5种面试
@@ -34,4 +32,7 @@ DOTO
 
 DOTO
 
-##### 6 纯算法题
+#### 6 纯算法题
+
+参考： [Algorithms-repo](https://github.com/maoli67660/Algorithms)
+
